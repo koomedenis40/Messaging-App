@@ -1,5 +1,5 @@
 # A Hospital Messaging App
-This is a hospital messaging app I developed while learning JavaScript in the year 2023. <br>
+This is a hospital messaging app I developed while learning JavaScript in the year 2023. <br> <br>
 
 
 ## Setup:
