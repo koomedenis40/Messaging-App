@@ -1,4 +1,4 @@
-# A Hospital Messaging Application
+## A Hospital Messaging Application
 This is a hospital messaging app I developed while learning JavaScript in the year 2023. <br> <br>
 
 
